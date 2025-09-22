@@ -1,5 +1,7 @@
 # Emotion Detector using CNN
 
+**Live Demo:** [Streamlit App](https://emotion-detector-cnn-jfcm6mhogchgmf8d83jpmo.streamlit.app/)
+
 This repository contains a Convolutional Neural Network (CNN) based **Emotion Detection** system trained on facial images. The model is implemented from scratch and is designed to classify facial expressions into seven categories.
 
 ---
