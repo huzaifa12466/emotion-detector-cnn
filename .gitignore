@@ -27,8 +27,6 @@ Thumbs.db
 # Logs
 *.log
 
-# Results folder (optional)
-results/
 
 # Ignore deployment outputs
 *.pyc
