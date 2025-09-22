@@ -116,8 +116,11 @@ The trained model achieved a **validation accuracy of \~65%**.
 
 Two plots were generated to visualize training:
 
-* **Loss Curve:** `results/loss_curve.png`
-* **Validation Accuracy Curve:** `results/validation_curve.png`
+### Loss Curve
+![Loss Curve](results/loss_curve.png)
+
+### Validation Accuracy Curve
+![Validation Accuracy Curve](results/validation_curve.png)
 
 These plots show that the model converges well without overfitting.
 
